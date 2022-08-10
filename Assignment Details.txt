@@ -1,0 +1,26 @@
+Image Classification:
+
+Build,Process, Evaluate
+
+31st Dec
+
+Google doc: upload .ipynb or .py file
+
+Small Report:
+
+what step have done after aquiring the data, 
+free to choose any model,
+some novelity in model,
+what extra we have done (Contribution),
+
+4 field - Accuracy,Precision,Recall in google form
+
+Best Model to choose : Next Class Explaination
+
+Put up outcome of all model : In Report
+
+Sample Report : will be Send by Pawan Sir
+
+Data by : https://github.com/ShahinSHH/COVID-CT-MD
+
+
